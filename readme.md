@@ -1,4 +1,4 @@
-#git curse
+# git curse
 
-*crash curse
+*  crash curse
 i just learning 
